@@ -1,0 +1,27 @@
+{
+  "best_model_name": "Random Forest",
+  "best_r2": 0.9956143356756373,
+  "feature_columns": [
+    "pm25",
+    "pm10",
+    "pm_ratio",
+    "pm_sum",
+    "no2",
+    "so2",
+    "co",
+    "o3",
+    "temperature",
+    "humidity",
+    "wind_speed",
+    "hour_sin",
+    "hour_cos",
+    "day_sin",
+    "day_cos",
+    "month_sin",
+    "month_cos"
+  ],
+  "regression": true,
+  "saved_at": "2026-02-17T19:16:24.350241",
+  "best_is_keras": false,
+  "best_is_pytorch": false
+}
